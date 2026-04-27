@@ -1,7 +1,7 @@
 ## Hi there, I'm Lawrence S. Ramirez 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=BSIT+Student+%40+CTU;AI,+Machine+Learning+%26+IoT;Power+Software+Developer;No+Pain+No+Gain" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=BSIT+Student+%40+CTU;AI,+Machine+Learning+%26+IoT;Software+Developer; Cyber+Security;No+Pain+No+Gain" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -22,7 +22,7 @@ When I'm not writing code or training object detection models, you can usually f
 ## 🔭 What I'm Currently Working On 
 
 - **BananaVision:** Leading the development of an online, real-time IoT and YOLOv8 computer vision system that classifies and detects the ripeness percentage of native bananas (Lakatan, Latundan, Saba).
-- **Predictive Spoilage Modeling:** Integrating Arduino DHT11 temperature and humidity sensor data into a Random Forest Regression (RFR) model to accurately predict fruit spoilage timelines alongside visual classification.
+- **Predictive Spoilage Modeling:** Integrating Arduino DHT22 temperature and humidity sensor data into a Random Forest Regression (RFR) model to accurately predict fruit spoilage timelines alongside visual classification.
 
 ## 🌱 Currently Learning 
 
@@ -31,23 +31,44 @@ When I'm not writing code or training object detection models, you can usually f
 
 ## 🛠️ Technical Skillset
 
-#### Artificial Intelligence & Machine Learning
+#### 🧠 Artificial Intelligence & Machine Learning
 <p>
-  <img src="https://img.shields.io/badge/Python-Advanced-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/YOLOv8-Expert-00FFFF?style=flat&logo=nodedotjs&logoColor=black" alt="YOLOv8 Skill Badge">
-  <img src="https://img.shields.io/badge/Machine%20Learning-Intermediate-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="Machine Learning Badge">
-  <img src="https://img.shields.io/badge/Random%20Forest-Experienced-4ECDC4?style=flat" alt="Random Forest Regression Badge">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat&logo=nodedotjs&logoColor=black" alt="YOLOv8">
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="Machine Learning">
+  <img src="https://img.shields.io/badge/Random%20Forest-4ECDC4?style=flat" alt="Random Forest Regression">
 </p>
 
-#### Hardware & IoT Systems
+#### 💻 Languages & Backend Frameworks
 <p>
-  <img src="https://img.shields.io/badge/Arduino-Advanced-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino Skill Badge">
-  <img src="https://img.shields.io/badge/IoT%20Architecture-Experienced-F2C811?style=flat&logoColor=black" alt="IoT Skill Badge">
-  <img src="https://img.shields.io/badge/Edge%20Computing-Beginner-45B7D1?style=flat" alt="Edge Computing Badge">
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=flat&logo=dotnet&logoColor=white" alt="ASP.NET">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel">
 </p>
 
-#### Software & Web Development
+#### 🌐 Frontend Development
 <p>
-  <img src="https://img.shields.io/badge/Web%20Dashboards-Intermediate-4479A1?style=flat" alt="Web Dashboards Badge">
-  <img src="https://img.shields.io/badge/Real--Time%20Databases-Experienced-E97627?style=flat&logo=firebase&logoColor=white" alt="Databases Badge">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite">
+</p>
+
+#### 🗄️ Databases & Cloud
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=firebase&logoColor=white" alt="Firebase">
+</p>
+
+#### ⚙️ Hardware, IoT & Tools
+<p>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white" alt="PowerShell">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white" alt="Kali Linux">
 </p>
