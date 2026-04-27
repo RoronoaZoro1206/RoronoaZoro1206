@@ -1,7 +1,7 @@
 ## Hi there, I'm Lawrence S. Ramirez 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=BSIT+Student+%40+CTU;AI,+Machine+Learning+%26+IoT;Software+Developer; Cyber+Security;No+Pain+No+Gain" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=BSIT+Student+%40+CTU;AI,+Machine+Learning+%26+IoT;Power+Software+Developer;No+Pain+No+Gain" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -31,12 +31,15 @@ When I'm not writing code or training object detection models, you can usually f
 
 ## 🛠️ Technical Skillset
 
-#### 🧠 Artificial Intelligence & Machine Learning
+#### 🧠 AI, Machine Learning & Data Science
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat&logo=nodedotjs&logoColor=black" alt="YOLOv8">
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="Machine Learning">
   <img src="https://img.shields.io/badge/Random%20Forest-4ECDC4?style=flat" alt="Random Forest Regression">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Antigravity-3776AB?style=flat&logo=python&logoColor=white" alt="Antigravity Module">
 </p>
 
 #### 💻 Languages & Backend Frameworks
@@ -64,11 +67,20 @@ When I'm not writing code or training object detection models, you can usually f
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=firebase&logoColor=white" alt="Firebase">
 </p>
 
-#### ⚙️ Hardware, IoT & Tools
+#### 👨‍💻 IDEs, Tools & Version Control
 <p>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino">
+  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/Visual%20Studio%202026-5C2D91?style=flat&logo=visual-studio&logoColor=white" alt="Visual Studio 2026">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter Notebook">
+  <img src="https://img.shields.io/badge/Kilo-000000?style=flat&logo=gnu-terminal&logoColor=white" alt="Kilo Editor">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white" alt="PowerShell">
+  <img src="https://img.shields.io/badge/GitHub%20Desktop-14222D?style=flat&logo=github&logoColor=white" alt="GitHub Desktop">
+</p>
+
+#### ⚙️ Hardware, OS & Utilities
+<p>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white" alt="Kali Linux">
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white" alt="PowerShell">
 </p>
