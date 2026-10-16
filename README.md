@@ -11,7 +11,7 @@
 </p>
 
 ## 🚀 About Me 
-I'm a 3rd-year BSIT student at Cebu Technological University - Main Campus, deeply passionate about software development, artificial intelligence, and building practical hardware-software ecosystems. 
+I'm a BSIT graduate at Cebu Technological University - Main Campus, deeply passionate about software development, artificial intelligence, and building practical hardware-software ecosystems. 
 
 My primary focus is on designing centralized web dashboards and integrating cutting-edge machine learning models, specifically computer vision, with online IoT architectures to process and visualize real-time data.
 
