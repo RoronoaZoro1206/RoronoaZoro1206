@@ -21,7 +21,7 @@ When I'm not writing code or training object detection models, you can usually f
       
 ## 🔭 What I'm Currently Working On 
 
-- **BananaVision:** Leading the development of an online, real-time IoT and YOLOv8 computer vision system that classifies and detects the ripeness percentage of native bananas (Lakatan, Latundan, Saba).
+- **BananaVision:** Leading the development of an online, real-time IoT and yolo26 computer vision system that classifies and detects the ripeness percentage of native bananas (Lakatan, Latundan, Saba).
 - **Predictive Spoilage Modeling:** Integrating Arduino DHT22 temperature and humidity sensor data into a Random Forest Regression (RFR) model to accurately predict fruit spoilage timelines alongside visual classification.
 
 ## 🌱 Currently Learning 
@@ -34,7 +34,7 @@ When I'm not writing code or training object detection models, you can usually f
 #### 🧠 AI, Machine Learning & Data Science
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat&logo=nodedotjs&logoColor=black" alt="YOLOv8">
+  <img src="https://img.shields.io/badge/yolo26-00FFFF?style=flat&logo=nodedotjs&logoColor=black" alt="yolo26">
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="Machine Learning">
   <img src="https://img.shields.io/badge/Random%20Forest-4ECDC4?style=flat" alt="Random Forest Regression">
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas">
